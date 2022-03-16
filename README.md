@@ -6,3 +6,6 @@ Recuerden que deben ejecutar `npm install`
 `dotenv`
 `cors`
 `nodemon (dev)`
+`bcryptjs`
+`mongoose`
+`express-validator`
